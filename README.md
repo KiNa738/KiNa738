@@ -6,8 +6,8 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=kina738&theme=redical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kina738&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <br>
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=kina738" alt="KiNa"/> </p>  </p>
 <br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kina738&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
