@@ -7,5 +7,5 @@
 ![](https://activity-graph.herokuapp.com/graph?username=kina738&theme=redical)
 
 <br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=kina738" alt="Masta"/> </p>  </p>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=kina738" alt="KiNa"/> </p>  </p>
 <br>
