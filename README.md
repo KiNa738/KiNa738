@@ -1,7 +1,7 @@
 <p align="center"> <img width="500" src="https://metrics.lecoq.io/kina738" alt="Github Metrics"> </p> 
 
 <div align="center">
-(https://github-readme-stats.vercel.app/api/top-langs/?username=kina738&layout=compact&theme=tokyonight&langs_count=10)
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=kina738&layout=compact&theme=tokyonight&langs_count=10)|
 </div>
 
 
